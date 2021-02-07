@@ -1,2 +1,4 @@
 # hello-world
-This is the Hello World tutorial.
+Hi! 
+
+This is an assignment for CS-HU250 week4.
